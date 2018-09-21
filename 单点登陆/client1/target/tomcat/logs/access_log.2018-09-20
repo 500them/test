@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:17:42:27 +0800] "GET / HTTP/1.1" 302 - http-bio-8089-exec-1 155
+127.0.0.1 - - [20/Sep/2018:17:42:27 +0800] "GET /?token=8b8d1aa4-ad05-435a-a718-5202fa7247c3 HTTP/1.1" 404 951 http-bio-8089-exec-4 108
+127.0.0.1 - - [20/Sep/2018:17:42:27 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8089-exec-5 2
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:17:44:03 +0800] "GET / HTTP/1.1" 302 - http-bio-8089-exec-7 1
+127.0.0.1 - - [20/Sep/2018:17:44:04 +0800] "GET /?token=8b8d1aa4-ad05-435a-a718-5202fa7247c3 HTTP/1.1" 404 951 http-bio-8089-exec-10 5
+127.0.0.1 - - [20/Sep/2018:17:51:14 +0800] "GET /main HTTP/1.1" 302 - http-bio-8089-exec-1 40
+127.0.0.1 - - [20/Sep/2018:17:51:14 +0800] "GET /main?token=a5d0398c-9ec5-47cb-bc36-080295b92ed5 HTTP/1.1" 200 418 http-bio-8089-exec-3 157
+127.0.0.1 - - [20/Sep/2018:17:56:10 +0800] "GET /main HTTP/1.1" 302 - http-bio-8089-exec-1 63
+127.0.0.1 - - [20/Sep/2018:17:56:20 +0800] "GET /main?token=7ed60950-0fc1-487a-9f03-7d9174dfd710 HTTP/1.1" 200 418 http-bio-8089-exec-3 99
+127.0.0.1 - - [20/Sep/2018:18:26:54 +0800] "POST /logOut HTTP/1.1" 302 - http-bio-8089-exec-5 2
+127.0.0.1 - - [20/Sep/2018:19:43:37 +0800] "GET /main HTTP/1.1" 302 - http-bio-8089-exec-7 15
+127.0.0.1 - - [20/Sep/2018:19:44:27 +0800] "GET /main?token=5b295a0d-15e6-46e0-907f-c8322caa14d9 HTTP/1.1" 200 418 http-bio-8089-exec-9 44
+127.0.0.1 - - [20/Sep/2018:20:14:55 +0800] "POST /logOut HTTP/1.1" 302 - http-bio-8089-exec-1 1
